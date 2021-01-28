@@ -1,3 +1,31 @@
+body{
+  text-align: center;
+  font-family: Roboto;
+  background-color: 	#f8f8ff;
+}
 h1 {
-  color: salmon;
+  color: gray;
+  text-align: center;
+}
+h3 {
+  color: gray;
+  text-align: center;
+}
+h4 {
+  position: absolute;
+}
+.column {
+  padding: 5px;
+  display: inline-block;
+
+}
+.row {
+  display: block;
+ margin: 0 auto;
+ width: 100%;
+ position: relative;
+}
+img {
+  width: 200px;
+  height: 200px;
 }
